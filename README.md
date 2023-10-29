@@ -1,52 +1,36 @@
-# Hola 👋
-Soy un programador hispano hablante, me gusta hacer servers y modificaciones, como apps y demas software.
+# Hello 👋
+I'm a Spanish-speaking programmer who enjoys creating servers and modifications, such as apps and other software.
 
-## Sobre mí
+## About Me
 
-- **Ubicación:** Portugal
-- **Correo electrónico:** virusstem.contact@gmail.com
-- **Sitio web/personal:** - [Portafolio](https://stemdev0110.github.io)
+- **Location:** Portugal
+- **Email:** virusstem.contact@gmail.com
+- **Personal Website:** - [Portfolio](https://stemdev0110.github.io)
 
-## Habilidades
+## Skills
 
-- Desarrollo Web (Backend y Frontend)
-  - React, Vite, Nodejs.
-- Desarrollo Apps Webs Professional (Electron)
-  - Python, NodeJs, SQL, Mysql, etc.
-- Desarrollo de Servers Mc (Como mencione me gusta Minecraft)
-  - Java, Sql, Python, Networks.
-  - Crear Iniciadores para Server ?
+- Web Development (Backend and Frontend)
+  - React, Vite, Node.js.
+- Professional Web App Development (Electron)
+  - Python, Node.js, SQL, MySQL, etc.
+- Minecraft Server Development (As I mentioned, I like Minecraft)
+  - Java, SQL, Python, Networks.
+  - Creating server starters?
 
+I have an intermediate level of English and a general knowledge of programming and system functioning in programming, including logics and more.
 
-Cuento con un nivel de ingles intermedio y con conocimiento general de programacion y funcionamiento de sistemas en programacion, como logicas y demas.
+## Contact
 
-## Contacto
+If you want to get in touch with me, you can do so through the following channels:
 
-Si deseas ponerse en contacto conmigo, puedes hacerlo a través de las siguientes redes:
-
-- [Web Personal](https://stemdev0110.github.io/contact)
+- [Personal Website](https://stemdev0110.github.io/contact)
 - [Twitter: @StemVirus](https://twitter.com/StemVirus)
-- [Correo Electrónico](mailto:virusstem.contact@gmail.com)
+- [Email](mailto:virusstem.contact@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StemDev0110&show_icons=true&theme=tokyonight)
 
 ## Some Stats 📈
 
-| Top Languages | List of Languajes |
+| Top Languages | List of Languages |
 | ----- | -------- | 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StemDev0110\&layout=donut-vertical&theme=tokyonight) | ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StemDev0110\&layout=compact&theme=tokyonight) |
-
-<!--
-**StemDev0110/StemDev0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
