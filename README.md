@@ -35,6 +35,6 @@ If you want to get in touch with me, you can do so through the following channel
 | ----- | -------- | 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StemDev0110\&layout=donut-vertical&theme=tokyonight) | ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StemDev0110\&layout=compact&theme=tokyonight) |
 
-<p align="center">
-  <img src="https://wakatime.com/share/@018b7b62-7262-4986-bdc2-d5e942ed94a3/307dd66f-acbb-4f77-a0f8-27999cecd04d.svg" alt="Wakatime Stats" style="max-height: 100px;">
+<p align="center" style="max-height: 100px;">
+  <img src="https://wakatime.com/share/@018b7b62-7262-4986-bdc2-d5e942ed94a3/307dd66f-acbb-4f77-a0f8-27999cecd04d.svg" alt="Wakatime Stats" >
 </p>
